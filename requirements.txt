@@ -1,6 +1,7 @@
 asgiref==3.8.1
 astroid==3.0.2
 asttokens==2.4.1
+bleach==6.1.0
 blinker==1.7.0
 cachetools==5.3.2
 certifi==2023.11.17
@@ -10,6 +11,7 @@ colorama==0.4.6
 dill==0.3.8
 dj-database-url==0.5.0
 Django==4.2.13
+django-summernote==0.8.20.0
 docutils==0.20.1
 Flask==3.0.3
 google-auth==2.27.0
@@ -45,6 +47,7 @@ thonny==4.1.4
 tomlkit==0.12.3
 typing_extensions==4.9.0
 urllib3==2.2.0
+webencodings==0.5.1
 Werkzeug==3.0.2
 wheel==0.42.0
 whitenoise==6.5.0
